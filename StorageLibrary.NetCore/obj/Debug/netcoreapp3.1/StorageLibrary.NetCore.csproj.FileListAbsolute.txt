@@ -1,0 +1,9 @@
+C:\Users\desir\Documents\Objektorienterad Programmering\WareHouseTentaDessi\StorageLibrary.NetCore\bin\Debug\netcoreapp3.1\StorageLibrary.NetCore.deps.json
+C:\Users\desir\Documents\Objektorienterad Programmering\WareHouseTentaDessi\StorageLibrary.NetCore\bin\Debug\netcoreapp3.1\StorageLibrary.NetCore.dll
+C:\Users\desir\Documents\Objektorienterad Programmering\WareHouseTentaDessi\StorageLibrary.NetCore\bin\Debug\netcoreapp3.1\StorageLibrary.NetCore.pdb
+C:\Users\desir\Documents\Objektorienterad Programmering\WareHouseTentaDessi\StorageLibrary.NetCore\obj\Debug\netcoreapp3.1\StorageLibrary.NetCore.csprojAssemblyReference.cache
+C:\Users\desir\Documents\Objektorienterad Programmering\WareHouseTentaDessi\StorageLibrary.NetCore\obj\Debug\netcoreapp3.1\StorageLibrary.NetCore.AssemblyInfoInputs.cache
+C:\Users\desir\Documents\Objektorienterad Programmering\WareHouseTentaDessi\StorageLibrary.NetCore\obj\Debug\netcoreapp3.1\StorageLibrary.NetCore.AssemblyInfo.cs
+C:\Users\desir\Documents\Objektorienterad Programmering\WareHouseTentaDessi\StorageLibrary.NetCore\obj\Debug\netcoreapp3.1\StorageLibrary.NetCore.csproj.CoreCompileInputs.cache
+C:\Users\desir\Documents\Objektorienterad Programmering\WareHouseTentaDessi\StorageLibrary.NetCore\obj\Debug\netcoreapp3.1\StorageLibrary.NetCore.dll
+C:\Users\desir\Documents\Objektorienterad Programmering\WareHouseTentaDessi\StorageLibrary.NetCore\obj\Debug\netcoreapp3.1\StorageLibrary.NetCore.pdb

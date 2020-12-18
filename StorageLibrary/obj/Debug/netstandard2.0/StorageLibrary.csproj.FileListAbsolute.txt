@@ -1,0 +1,9 @@
+C:\Users\desir\Documents\Objektorienterad Programmering\WareHouseTentaDessi\StorageLibrary\bin\Debug\netstandard2.0\StorageLibrary.deps.json
+C:\Users\desir\Documents\Objektorienterad Programmering\WareHouseTentaDessi\StorageLibrary\bin\Debug\netstandard2.0\StorageLibrary.dll
+C:\Users\desir\Documents\Objektorienterad Programmering\WareHouseTentaDessi\StorageLibrary\bin\Debug\netstandard2.0\StorageLibrary.pdb
+C:\Users\desir\Documents\Objektorienterad Programmering\WareHouseTentaDessi\StorageLibrary\obj\Debug\netstandard2.0\StorageLibrary.csprojAssemblyReference.cache
+C:\Users\desir\Documents\Objektorienterad Programmering\WareHouseTentaDessi\StorageLibrary\obj\Debug\netstandard2.0\StorageLibrary.AssemblyInfoInputs.cache
+C:\Users\desir\Documents\Objektorienterad Programmering\WareHouseTentaDessi\StorageLibrary\obj\Debug\netstandard2.0\StorageLibrary.AssemblyInfo.cs
+C:\Users\desir\Documents\Objektorienterad Programmering\WareHouseTentaDessi\StorageLibrary\obj\Debug\netstandard2.0\StorageLibrary.csproj.CoreCompileInputs.cache
+C:\Users\desir\Documents\Objektorienterad Programmering\WareHouseTentaDessi\StorageLibrary\obj\Debug\netstandard2.0\StorageLibrary.dll
+C:\Users\desir\Documents\Objektorienterad Programmering\WareHouseTentaDessi\StorageLibrary\obj\Debug\netstandard2.0\StorageLibrary.pdb
