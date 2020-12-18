@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Frontend/1.0.0": {
+        "dependencies": {
+          "StorageLibrary.NetCore": "1.0.0"
+        },
+        "runtime": {
+          "Frontend.dll": {}
+        }
+      },
+      "StorageLibrary.NetCore/1.0.0": {
+        "runtime": {
+          "StorageLibrary.NetCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Frontend/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StorageLibrary.NetCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
